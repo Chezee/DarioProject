@@ -10,4 +10,5 @@ At right top corner you can switch between Celsium and Fahrenheight system
 On tap on any city cell you will go to next screen with map (MapKit/Apple maps)
 
 Technologies used: SwiftUI, Combine, MapKit, SPM, Brain
+
 Minimum iOS Version: 15.0
